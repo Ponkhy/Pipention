@@ -1,6 +1,6 @@
 # Pipention
 
-It provides an simple option of a YouTube live chat to insert a username by clicking on it.\
+It provides an simple option of a YouTube live chat to insert a username by clicking on it.
 
 ---
 ## Installation
